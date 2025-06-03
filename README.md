@@ -1,6 +1,6 @@
 # Titanic Survivor Predictor 🚢
 
-A simple machine learning inference web app built with [FastAPI](https://fastapi.tiangolo.com/) for predicting Titanic passenger survival.  
+A simple machine learning inference [web app](https://titanic-survival-predictor-jny8.onrender.com/) built with [FastAPI](https://fastapi.tiangolo.com/) for predicting Titanic passenger survival.  
 This project demonstrates how to serve ML models with FastAPI and a modern HTML frontend.
 
 ## 🚀 Features
@@ -63,5 +63,5 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser to use the 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
