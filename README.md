@@ -63,5 +63,5 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser to use the 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
