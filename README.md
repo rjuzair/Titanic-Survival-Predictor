@@ -13,7 +13,7 @@ This project demonstrates how to serve ML models with FastAPI and a modern HTML 
 
 ## 📸 Demo
 
-![App Screenshot](static/Images/image.jpg)
+![App Screenshot](static/Images/Demo.png)
 
 ## 🏗️ Project Structure
 
@@ -25,7 +25,7 @@ This project demonstrates how to serve ML models with FastAPI and a modern HTML 
 │   └── index.html        # Main HTML UI
 ├── static/
 │   └── Images/
-│       └── image.jpg     # Example image
+│       └── image.jpg     # Background image
 ├── input/                # Data files
 ├── EDA.ipynb             # Exploratory Data Analysis
 ├── Model_Selection.ipynb # Model selection notebook
@@ -61,14 +61,7 @@ Visit [http://localhost:8000](http://localhost:8000) in your browser to use the 
 
 - Place your Titanic dataset CSVs in the `input/` directory.
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Made with ❤️ by [yourusername](https://github.com/yourusername)
