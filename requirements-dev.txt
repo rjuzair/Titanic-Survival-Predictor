@@ -1,0 +1,8 @@
+-r requirements.txt
+jupyter
+matplotlib
+seaborn
+plotly
+xgboost
+httpx
+pytest
