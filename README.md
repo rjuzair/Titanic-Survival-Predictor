@@ -10,6 +10,7 @@ An end-to-end machine learning project: exploratory analysis and feature enginee
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Render](https://img.shields.io/badge/deployed%20on-Render-46E3B7?logo=render&logoColor=white)
+[![tests](https://github.com/rjuzair/Titanic-Survival-Predictor/actions/workflows/tests.yml/badge.svg)](https://github.com/rjuzair/Titanic-Survival-Predictor/actions/workflows/tests.yml)
 
 ## Highlights
 - **Feature engineering:** passenger `Title` extracted from names (Mr, Mrs, Miss, Master, Rare) and `Family_size` bucketed into Alone / Small / Large.
@@ -56,7 +57,6 @@ pytest
 ## Possible next steps
 - Report precision/recall and a confusion matrix alongside accuracy, and tune the ensemble with a grid search.
 - Return survival **probability** (soft voting) instead of a hard label.
-- Add a GitHub Actions workflow to run the tests on every push.
 
 ## License
 [Apache 2.0](LICENSE)
